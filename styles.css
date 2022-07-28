@@ -1,0 +1,19 @@
+.pokemon-image {
+  height: 300px;
+  width: 300px;
+}
+
+.poke-nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#pagination-wrapper {
+  display: flex;
+  column-gap: 0.5rem;
+  position: sticky;
+  top: 3.5rem;
+  z-index: 10;
+  background-color: #ffc107;
+}
